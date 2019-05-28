@@ -1,0 +1,3 @@
+cd Desktop/tjbot/recipes/speech_to_text
+npm install
+sudo node stt.js
