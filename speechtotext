@@ -1,8 +1,8 @@
 {
-  "apikey": "**XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX**",
-  "iam_apikey_description": "Auto generated apikey during resource-key operation for Instance - crn:v1:bluemix:public:speech-to-text:XXXXXXX:XXXXXXXXXXXXblah-blah-blahXXXXXXXXXXXXXXXX",
-  "iam_apikey_name": "auto-generated-apikey-**XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**",
-  "iam_role_crn": "XXXXXXXXXXblah-blah-blahXXXXXXXXXXX",
-  "iam_serviceid_crn": "XXXXXXXXXblah-blah-blahXXXXXXXXXXX",
-  "url": "https://stream.watsonplatform.net/speech-to-text/api"
+  "apikey": "yJHx2O6ElncW0uLIr30niNQO5nqGPNIkxGuI7aXMOilz",
+  "iam_apikey_description": "Auto-generated for key 6ee8b070-2516-4644-94b4-ec71f4bc776f",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/51b0fa8df7cd403585eacf0576a3d31b::serviceid:ServiceId-70b797ed-cdaa-41b9-b988-eb010f23fe1c",
+  "url": "https://gateway.watsonplatform.net/tone-analyzer/api"
 }
