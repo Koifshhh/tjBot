@@ -1,0 +1,8 @@
+{
+  "apikey": "**XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX**",
+  "iam_apikey_description": "Auto generated apikey during resource-key operation for Instance - crn:v1:bluemix:public:speech-to-text:XXXXXXX:XXXXXXXXXXXXblah-blah-blahXXXXXXXXXXXXXXXX",
+  "iam_apikey_name": "auto-generated-apikey-**XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**",
+  "iam_role_crn": "XXXXXXXXXXblah-blah-blahXXXXXXXXXXX",
+  "iam_serviceid_crn": "XXXXXXXXXblah-blah-blahXXXXXXXXXXX",
+  "url": "https://stream.watsonplatform.net/speech-to-text/api"
+}
