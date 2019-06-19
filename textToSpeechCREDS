@@ -1,0 +1,8 @@
+{
+  "apikey": "BDjlyw-wGUl9GHqbgetaVL0reKb-wdx_jtFFbmJZDzh6",
+  "iam_apikey_description": "Auto-generated for key 8d52f288-fa71-4a8d-9de5-25992cbea866",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/51b0fa8df7cd403585eacf0576a3d31b::serviceid:ServiceId-0fa6045b-58f0-4489-9f8e-8ed0606f56cc",
+  "url": "https://stream.watsonplatform.net/text-to-speech/api"
+}
